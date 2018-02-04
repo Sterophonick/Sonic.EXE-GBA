@@ -1,0 +1,8 @@
+build/main.o: src/main.c src/../inc/defs.h src/../inc/gbfs.h \
+ src/../inc/lz77.h
+
+src/../inc/defs.h:
+
+src/../inc/gbfs.h:
+
+src/../inc/lz77.h:
