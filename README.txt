@@ -1,3 +1,7 @@
+#NOTE!!!!!!:
+YOU MUST UNZIP THE FILE "BGM_RUN.ZIP" AND PUT IT IN THE DATA DIRECTORY. THIS FILE IS CRUCIAL TO COMPILATION!!!
+
+#Sonic.EXE GBA
 This is a GBA Port of Sonic.EXE. Based on the fan port by MY5TCrimson. Original Creepypasta by JC The Hyena.
 
 WHATEVER (mAj0r Sp0oKy):
