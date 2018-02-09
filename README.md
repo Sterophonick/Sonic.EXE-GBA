@@ -1,7 +1,10 @@
 #NOTE!!!!!!
+
 YOU MUST UNZIP THE FILE "BGM_RUN.ZIP" AND PUT IT IN THE DATA DIRECTORY. THIS FILE IS CRUCIAL TO COMPILATION!!!
+YOU MUST COPY THE FILE /lib/agb_lib.h TO C:\devkitpro\devkitARM\lib\gcc\arm-none-eabi\7.1.0\include
 
 #Sonic.EXE GBA
+
 This is a GBA Port of Sonic.EXE. Based on the fan port by MY5TCrimson. Original Creepypasta by JC The Hyena.
 
 WHATEVER (mAj0r Sp0oKy):
